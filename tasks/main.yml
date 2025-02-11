@@ -1,0 +1,10 @@
+
+# tasks file for myrole
+---
+- name: Install Java and Maven
+  apt:
+    name:
+      - "{{ java_package }}"
+      - "{{ maven_package }}"
+    state: present
+    update_cache: yes

@@ -1,0 +1,4 @@
+---
+# vars file for myrole
+java_package: openjdk-17-jdk
+maven_package: maven
