@@ -1,4 +1,4 @@
 ---
 # defaults file for myrole
 user_name: "charan"
-branch_name: "master"
+branch_name: "main"
